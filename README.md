@@ -1,4 +1,4 @@
-# **Launcher Menu**
+# **Launcher Menu** 📝
 
 ### **This is a Launcher Menu that can be used to launch:**
 - AWS instance 
